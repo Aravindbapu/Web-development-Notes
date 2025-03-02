@@ -1,0 +1,18 @@
+p{
+    background-color: aqua;
+    color: red;
+}
+
+a{
+    background-color: blue;
+    color: blue;
+}
+
+div{
+    background-color: yellow;
+}
+
+span{
+    background-color: blueviolet;
+    font-weight: bold;
+}
